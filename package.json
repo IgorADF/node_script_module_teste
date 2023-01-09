@@ -1,0 +1,15 @@
+{
+  "name": "node_script_module_teste",
+  "version": "1.0.4",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "test": "node ./cli.js model-files"
+  },
+  "bin": {
+    "solve-scripts": "./cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
